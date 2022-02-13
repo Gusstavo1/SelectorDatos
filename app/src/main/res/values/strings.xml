@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SelectorDatos</string>
+    <string name="seleccionar_imagen">Seleccionar imagen</string>
+    <string name="abrir_galeria">Abrir galeria</string>
+</resources>
